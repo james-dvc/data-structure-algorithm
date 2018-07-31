@@ -1,0 +1,8 @@
+*.filters
+*.suo
+*.db
+*.opendb
+*.ipch
+*.user
+Debug/
+Release/
